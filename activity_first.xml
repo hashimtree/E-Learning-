@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	    xmlns:app="http://schemas.android.com/apk/res-auto" 
+	    xmlns:tools="http://schemas.android.com/tools" 
+	    android:layout_width="match_parent" 
+	    android:layout_height="match_parent" 	    android:background="#808000" 
+	    android:padding="16dp" 
+	    tools:context=".FirstActivity"> 
+	 
+	    <TextView 
+	        android:id="@+id/textview" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:text="Gezira College of Medical Sciences and Technology Online Support.." 
+	        android:textSize="20sp" 
+	        android:textColor="#FFFFFF" 
+	        android:layout_centerHorizontal="true" 
+	        android:layout_marginTop="30dp"/> 
+	 
+	    <Button 
+	        android:id="@+id/button_first1" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:text="Muscular and Nervous Tissue"
+	android:layout_marginTop="200dp"/>      
+	        /> 
+	        
+    <Button 
+	        android:id="@+id/button_first" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:text="Epithelium and Connective Tissue" 
+	  android:layout_marginTop="250dp"      
+	         /> 	        
+	
+	<Button 
+	        android:id="@+id/button33" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:text="play music" /> 	 
+	    <Button 
+	        android:id="@+id/button44" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:text="stop music" 
+	        android:layout_marginTop="30sp"/> 
+	
+	
+	       
+	 <ImageView 
+	        android:id="@+id/image_view" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 	        android:src="@drawable/c" 
+	        android:scaleX="1.2" 
+        android:scaleY="0.95"
+       android:layout_marginTop="550dp"   />
+       
+  <TextView 
+	        android:id="@+id/textview1" 
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:text="v3 2020 
+	         
+	         Wad Medani Sudan
+	          hashimtree@gmail.com " 
+	        android:textSize="12.8sp" 
+	        android:textColor="#FFFFFF" 
+	        android:layout_centerHorizontal="true" 
+	        android:layout_marginTop="590dp"/>      
+       
+	</RelativeLayout>
